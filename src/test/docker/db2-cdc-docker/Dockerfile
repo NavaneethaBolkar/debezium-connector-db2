@@ -1,6 +1,6 @@
 FROM ibmcom/db2:11.5.0.0a
 
-MAINTAINER  Peter Urbanetz
+MAINTAINER  Neetha Bolkar
 
 
 RUN mkdir -p /asncdctools/src
